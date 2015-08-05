@@ -39,3 +39,33 @@ body
 	color:#0174DF!important;
 	background-color:;
 }
+
+/*----------------------# Navigation---------------------------*/
+.site
+{
+	max-width: 80%;
+	margin: auto;
+}
+
+#menu-main
+{
+	margin: auto;
+	padding: 0; 
+	position: relative;
+	text-align: center;
+	float: center;
+}
+
+.main-navigation
+{
+	clear: both;
+	display: block;
+	margin: 0 auto 0;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+	background: linear-gradient(#595959, #2E2E2E);
+	border-bottom: solid 3px;
+	border-color: #cdd422;
+	height: 40px;
+}

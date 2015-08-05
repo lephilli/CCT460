@@ -1,0 +1,41 @@
+/*
+Theme name: Underscores Child Theme
+Theme URI: http://underscores.me/
+Description: Custom child-theme for _s-master theme 
+Author: Phillip Le + Kunal Rathore + Cheuk Shing Ma
+Author URI: http://automattic.com/
+Version: 1.0.0
+Template: _s-master
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+    ## Posts and pages
+	## Asides
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+
+
+/*----------------------# Normalize---------------------------*/
+body 
+{
+	color:#0174DF!important;
+	background-color:;
+}

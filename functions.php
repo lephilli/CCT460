@@ -24,3 +24,6 @@ function child_widgets_init (){
 		));
 }
 add_action( 'widgets_init', 'child_widgets_init');
+
+// Footer Menu ------------------------------------------------------------------------>
+register_nav_menus (array ('secondary'=>__( 'Footer Menu' ),));

@@ -69,3 +69,63 @@ body
 	border-color: #cdd422;
 	height: 40px;
 }
+
+
+.main-navigation a
+{
+	display: block;
+	font-size: 13px; 
+	font-weight: 300;
+	letter-spacing: 0.5px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	padding: 10px 25px;
+
+
+}
+
+.main-navigation a:hover
+{
+	background: linear-gradient(#E9F027, #cdd422);
+	display: block;
+	
+}
+
+.main-navigation a:active
+{
+	background: linear-gradient(#E9F027, #cdd422);
+	display: block;
+	
+}
+
+.main-navigation li
+{
+    float: center;
+    position: relative;
+    display: inline-block;
+	border-right: solid 3px;
+	border-color: #000000;
+
+}
+
+.main-navigation ul  
+{
+	float: center; 
+
+}
+
+.main-navigation ul ul 
+{
+	position: absolute;
+	top: none;
+}
+.main-navigation ul ul li 
+{
+	background:#2E2E2E;
+	border-top: solid 3px;
+	border-right: 0px;
+	border-color: #cdd422;
+}
+
+
